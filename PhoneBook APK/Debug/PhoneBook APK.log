@@ -1,0 +1,9 @@
+﻿  PhoneBook APK.cpp
+C:\Users\HP\Downloads\Project\Project\PhoneBook APK\PhoneBook APK\PhoneBook APK.cpp(273,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Downloads\Project\Project\PhoneBook APK\PhoneBook APK\PhoneBook APK.cpp(317,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Downloads\Project\Project\PhoneBook APK\PhoneBook APK\PhoneBook APK.cpp(695,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Downloads\Project\Project\PhoneBook APK\PhoneBook APK\PhoneBook APK.cpp(707,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Downloads\Project\Project\PhoneBook APK\PhoneBook APK\PhoneBook APK.cpp(731,47): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\Downloads\Project\Project\PhoneBook APK\PhoneBook APK\PhoneBook APK.cpp(755,46): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\Downloads\Project\Project\PhoneBook APK\PhoneBook APK\PhoneBook APK.cpp(774,46): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  PhoneBook APK.vcxproj -> C:\Users\HP\Downloads\Project\Project\PhoneBook APK\Debug\PhoneBook APK.exe
